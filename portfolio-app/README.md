@@ -50,11 +50,3 @@ src/
 ├── main.tsx        # Entry point
 └── index.css       # Global styles & animations
 ```
-
-## Design Reference
-
-Original HTML reference files are located in `../Reference/`:
-- `Home.html`
-- `projects.html`
-- `careerpath.html`
-- `contactme.html`
